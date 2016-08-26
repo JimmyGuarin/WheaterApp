@@ -77,7 +77,7 @@ public class BlankFragment extends Fragment {
 
         // Inflate the layout for this fragment
         String[] forecastArray={
-                "Today - Sunny - 88/63",
+                "Lunes - Sunny - 88/63",
                 "Tomorrow - Foggy - 70/40",
                 "Weds - Cloudy - 72/63",
                 "Thurs - Asteroids - 75/65",
